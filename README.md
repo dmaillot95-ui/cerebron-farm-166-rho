@@ -1,0 +1,3 @@
+# RHO
+
+Initializing scaffold.
