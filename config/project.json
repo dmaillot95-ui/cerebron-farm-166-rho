@@ -1,0 +1,20 @@
+{
+  "schema": "RHO_PROJECT_V1",
+  "farm_id": 166,
+  "project_id": "MODEL-RHO-001",
+  "role_id": "INDEPENDENCE_CORRELATION_AUDITOR",
+  "status": "SCAFFOLDED_NOT_TRAINED",
+  "runtime_changed": false,
+  "weights_changed": false,
+  "training_authorized": false,
+  "shared_base_family": "CEREBRON_GREEK_SHARED_BASE",
+  "campaign_passes": 10,
+  "required_shared_tools": [
+    "PI-SEARCH"
+  ],
+  "rules": [
+    "M6_NEVER_IN_TRAIN",
+    "CLAIM_LE_EVIDENCE",
+    "REAL_EXECUTION_RECEIPT_REQUIRED"
+  ]
+}
